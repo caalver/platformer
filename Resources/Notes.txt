@@ -1,0 +1,8 @@
+Player Moves-
+
+Dash - Uses Wings to Dash forwards a small distance quickly
+Peck- Pecks at foe with beak
+
+Usual 4 directional movement
+Jumping
+Gliding
